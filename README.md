@@ -1,2 +1,2 @@
 # AsciiArt
-Exibe uma arte
+[console: AsciiArt] Exiba uma arte.
